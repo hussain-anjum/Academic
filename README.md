@@ -1,6 +1,6 @@
 # Academic
 
-Welcome to my academic archive! I'm a CSE undergraduate at **Jatiya Kabi Kazi Nazrul Islam University**.  
+Welcome to my academic archive!  
 This repository contains all of my academic resources semester-wise — including notes, assignments, lab reports, and exam prep materials.
 
 ---
